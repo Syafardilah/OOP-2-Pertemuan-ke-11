@@ -1,0 +1,2 @@
+pengertian tagging interface dalam bahasa Java (jangan dikelirukan dengan JavaScript atau JScript) adalah bahasa pemrograman berorientasi objek tujuan umum yang dirancang untuk digunakan bersamaan dengan Java Virtual Machine (JVM). 
+"Java platform" adalah nama untuk sistem komputasi yang telah menginstal alat untuk mengembangkan dan menjalankan program Java.
